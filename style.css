@@ -1,0 +1,14 @@
+body {
+	height: 2000px;
+}
+
+div {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	position: relative;
+	border: 1px solid black;
+	opacity: .5;
+	background-width: 100%;
+	background-repeat: no-repeat;
+}
